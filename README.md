@@ -14,7 +14,8 @@
 
 
 
-##### Таблица метаданных
+
+#### Таблица метаданных
 
 Расшифровка названий колонок в таблице _elegies_metadata.csv_.  
 **id** - Идентификатор текста. Тексты в корпусе (файлы . txt) соотносятся с метаданными на основании идентификатора.  
@@ -41,7 +42,9 @@
 
 
 
-### Russian Elegies corpus
+
+
+## Russian Elegies corpus
 
 The repository contains a corpus of Russian elegies published between 1815 and 1835 that was used for the MA thesis: Martynenko A. _Russian Elegy of the first third of the 19th century and the Genre System Evolution in Evgeny Baratysnky's Poetry_. Tartu, 2019.
 
