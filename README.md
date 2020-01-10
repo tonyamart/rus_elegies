@@ -2,7 +2,7 @@
 
 The repository contains a corpus of Russian elegies published between 1815 and 1835 that was used for the MA thesis: Martynenko A. _Russian Elegy of the first third of the 19th century and the Genre System Evolution in Evgeny Baratysnky's Poetry_. Tartu, 2019.
 
-The corpus is presented through the metadata table and collection of poems stored as separate plain texts (UTF-8 format). For further computational study texts are presented in modern Russian orthography, line indents and other printing features (asterisks between stanzas etc.) were also excluded from the texts. However, elegies in the corpus retain punctuation, line division and rhymes according to historical sources. Words printed in italics are represented by the <i> tag (for example: <i>слово</i>). 
+The corpus is presented through the metadata table and collection of poems stored as separate plain texts (UTF-8 format). For further computational study texts are presented in modern Russian orthography, line indents and other printing features (asterisks between stanzas etc.) were also excluded from the texts. However, elegies in the corpus retain punctuation, line division and rhymes according to historical sources. Words printed in italics are represented by the html i tag.
   
 The metadata (authors names, years of publication, sources, etc.) are stored as 'elegies_metadata.tsv'. The texts are to be connected with the metadata table through id-s.
 
